@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Stock Quotes</string>
+    <string name="enterText">Enter stock symbol:</string>
+    <string name="symbolTxt">Symbol:</string>
+    <string name="nameTxt">Name:</string>
+    <string name="priceTxt">Last Trade Price:</string>
+    <string name="timeTxt">Last Trade Time:</string>
+    <string name="changeTxt">Change:</string>
+    <string name="rangeTxt">52 Week Range:</string>
+    <string name="editHint">Enter here...</string>
+    <string name="symbolAns"></string>
+    <string name="nameAns"></string>
+    <string name="priceAns"></string>
+    <string name="timeAns"></string>
+    <string name="changeAns"></string>
+    <string name="rangeAns"></string>
+
+</resources>
